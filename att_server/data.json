@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sam21",
+    "name": "Sam",
+    "email": "sam@gmail.com",
+    "password": "Sam@123",
+    "attendence": [
+      {
+        "date": "2024-10-25",
+        "day": "Friday",
+        "login_time": "11:56:43",
+        "login_location": {
+          "lat": 11.0208818,
+          "long": 76.9436596
+        },
+        "logout_time": "12:02:18",
+        "logout_location": {
+          "lat": 11.0208881,
+          "long": 76.9436653
+        },
+        "duration": "Full Day"
+      }
+    ]
+  },
+  {
+    "id": "tamil",
+    "name": "tamil",
+    "email": "tamil@gmail.com",
+    "password": "tamil@123",
+    "attendence": []
+  }
+]
